@@ -1,0 +1,1 @@
+echo "$HOSTNAME is up"
